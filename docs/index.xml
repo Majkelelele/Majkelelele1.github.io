@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/assembly-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/assembly-language/</guid>
+      <description>Assembly language Here you can learn more about the language: https://en.wikipedia.org/wiki/Assembly_language
+Short Info The first assembly code in which a language is used to represent machine code instructions is found in Kathleen and Andrew Donald Booth&amp;rsquo;s 1947 work, Coding for A.R.C..[8] Assembly code is converted into executable machine code by a utility program referred to as an assembler. The term &amp;ldquo;assembler&amp;rdquo; is generally attributed to Wilkes, Wheeler and Gill in their 1951 book The Preparation of Programs for an Electronic Digital Computer,[9] who, however, used the term to mean &amp;ldquo;a program that assembles another program consisting of several sections into a single program&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/c</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c</guid>
+      <description>C# Here you can learn more about the language: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+Short Info The C# programming language was designed by Anders Hejlsberg from Microsoft in 2000 and was later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO/IEC (ISO/IEC 23270 and 20619[c]) in 2003. Microsoft introduced C# along with .NET Framework and Visual Studio, both of which were closed-source. At the time, Microsoft had no open-source products. Four years later, in 2004, a free and open-source project called Mono began, providing a cross-platform compiler and runtime environment for the C# programming language.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c&#43;&#43;/</guid>
+      <description>C++ Here you can learn more about the language: https://en.wikipedia.org/wiki/C%2B%2B
+Short Info C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights.[15] C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications,[15] including desktop applications, video games, servers (e.g., e-commerce, web search, or databases), and performance-critical applications (e.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c/</guid>
+      <description>C Here you can learn more about the language: https://en.wikipedia.org/wiki/C_(programming_language)
+Short Info A successor to the programming language B, C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system.[8] During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages,[9][10] with C compilers available for practically all modern computer architectures and operating systems.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cobol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cobol/</guid>
+      <description>COBOL Here you can learn more about the language: https://en.wikipedia.org/wiki/COBOL
+Short Info COBOL was designed in 1959 by CODASYL and was partly based on the programming language FLOW-MATIC designed by Grace Hopper. It was created as part of a U.S. Department of Defense effort to create a portable programming language for data processing. It was originally seen as a stopgap, but the Defense Department promptly forced computer manufacturers to provide it, resulting in its widespread adoption.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/delphiobject-pascal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/delphiobject-pascal/</guid>
+      <description>DelphiObject Pascal Here you can learn more about the language: https://en.wikipedia.org/wiki/Object_Pascal
+Short Info Symantec also developed a compiler for Object Pascal for their Think Pascal product, which could compile programs much faster than Apple&amp;rsquo;s own Macintosh Programmer&amp;rsquo;s Workshop (MPW). Symantec then developed the Think Class Library (TCL), based on MacApp concepts, which could be called from both Object Pascal and THINK C. The Think suite largely displaced MPW as the main development platform on the Mac in the late 1980s.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fortran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fortran/</guid>
+      <description>Fortran Here you can learn more about the language: https://en.wikipedia.org/wiki/Fortran
+Short Info Fortran was originally developed by IBM.[2] It first compiled correctly in 1958.[3] Fortran computer programs have been written to support scientific and engineering applications, such as numerical weather prediction, finite element analysis, computational fluid dynamics, geophysics, computational physics, crystallography and computational chemistry. It is a popular language for high-performance computing[4] and is used for programs that benchmark and rank the world&amp;rsquo;s fastest supercomputers.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/go/</guid>
+      <description>Go Here you can learn more about the language: https://en.wikipedia.org/wiki/Go_(programming_language)
+Short Info There are two major implementations:</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/java/</guid>
+      <description>Java Here you can learn more about the language: https://en.wikipedia.org/wiki/Java_(programming_language)
+Short Info Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[16] meaning that compiled Java code can run on all platforms that support Java without the need to recompile.[17] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/javascript/</guid>
+      <description>JavaScript Here you can learn more about the language: https://en.wikipedia.org/wiki/JavaScript
+Short Info JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[11] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kotlin/</guid>
+      <description>Kotlin Here you can learn more about the language: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+Short Info On 7 May 2019, Google announced that the Kotlin programming language was now its preferred language for Android app developers.[7] Since the release of Android Studio 3.0 in October 2017, Kotlin has been included as an alternative to the standard Java compiler. The Android Kotlin compiler produces Java 8 bytecode by default (which runs in any later JVM), but lets the programmer choose to target Java 9 up to 20, for optimization,[8] or allows for more features; has bidirectional record class interoperability support for JVM, introduced in Java 16, considered stable as of Kotlin 1.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/list/</guid>
+      <description>List of Languages Python Place 1
+Rating 15.63%
+&amp;ldquo;Python
+C Place 2
+Rating 11.17%
+&amp;ldquo;C
+C++ Place 3
+Rating 10.70%
+&amp;ldquo;C++
+Java Place 4
+Rating 8.95%
+&amp;ldquo;Java
+C# Place 5
+Rating 7.54%
+&amp;ldquo;C#
+JavaScript Place 6
+Rating 3.38%
+&amp;ldquo;JavaScript
+SQL Place 7
+Rating 1.92%
+&amp;ldquo;SQL
+Go Place 8
+Rating 1.56%
+&amp;ldquo;Go
+Scratch Place 9
+Rating 1.46%
+&amp;ldquo;Scratch
+Visual Basic Place 10
+Rating 1.42%
+&amp;ldquo;Visual Basic
+Assembly language Place 11
+Rating 1.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/matlab/</guid>
+      <description>MATLAB Here you can learn more about the language: https://en.wikipedia.org/wiki/MATLAB
+Short Info Although MATLAB is intended primarily for numeric computing, an optional toolbox uses the MuPAD symbolic engine allowing access to symbolic computing abilities. An additional package, Simulink, adds graphical multi-domain simulation and model-based design for dynamic and embedded systems.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/php/</guid>
+      <description>PHP Here you can learn more about the language: https://en.wikipedia.org/wiki/PHP
+Short Info The standard PHP interpreter, powered by the Zend Engine, is free software released under the PHP License. PHP has been widely ported and can be deployed on most web servers on a variety of operating systems and platforms.[17]</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/python/</guid>
+      <description>Python Here you can learn more about the language: https://en.wikipedia.org/wiki/Python_(programming_language)
+Short Info Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a &amp;ldquo;batteries included&amp;rdquo; language due to its comprehensive standard library.[32][33]</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ruby/</guid>
+      <description>Ruby Here you can learn more about the language: https://en.wikipedia.org/wiki/Ruby
+Short Info Some gemstones that are popularly or historically called rubies, such as the Black Prince&amp;rsquo;s Ruby in the British Imperial State Crown, are actually spinels. These were once known as &amp;ldquo;Balas rubies&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rust/</guid>
+      <description>Rust Here you can learn more about the language: https://en.wikipedia.org/wiki/Rust_(programming_language)
+Short Info Software developer Graydon Hoare created Rust as a personal project while working at Mozilla Research in 2006. Mozilla officially sponsored the project in 2009. In the years following the first stable release in May 2015, Rust was adopted by companies including Amazon, Discord, Dropbox, Google (Alphabet), Meta, and Microsoft. In December 2022, it became the first language other than C and assembly to be supported in the development of the Linux kernel.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scratch/</guid>
+      <description>Scratch Here you can learn more about the language: https://en.wikipedia.org/wiki/Scratch_(programming_language)
+Short Info Scratch is a high-level, block-based visual programming language and website aimed primarily at children as an educational tool, with a target audience of ages 8 to 16.[8] Users on the site can create projects on the website using a block-like interface. Scratch was conceived and designed through collaborative National Science Foundation grants awarded to Mitchel Resnick and Yasmin Kafai.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sql/</guid>
+      <description>SQL Here you can learn more about the language: https://en.wikipedia.org/wiki/SQL
+Short Info Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL),[a] a data definition language (DDL),[b] a data control language (DCL), and a data manipulation language (DML).[c][7] The scope of SQL includes data query, data manipulation (insert, update, and delete), data definition (schema creation and modification), and data access control.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/swift/</guid>
+      <description>Swift Here you can learn more about the language: https://en.wikipedia.org/wiki/SWIFT
+Short Info The Swift messaging network is a component of the global payments system.[3] Swift acts as a carrier of the &amp;ldquo;messages containing the payment instructions between financial institutions involved in a transaction&amp;rdquo;.[4][5] However, the organisation does not manage accounts on behalf of individuals or financial institutions, and it does not hold funds from third parties.[6] It also does not perform clearing or settlement functions.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/visual-basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/visual-basic/</guid>
+      <description>Visual Basic Here you can learn more about the language: https://en.wikipedia.org/wiki/Visual_Basic_(classic)
+Short Info Microsoft significantly changed VB for the .NET technology and rebranded it Visual Basic .NET (VB.NET), and then later rebranded it back to Visual Basic. Therefore, Visual Basic can refer to a classic version, a .NET version or both. This article is about the versions before .NET.</description>
+    </item>
+  </channel>
+</rss>

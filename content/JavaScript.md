@@ -1,0 +1,12 @@
+
+JavaScript
+==========
+
+# Here you can learn more about the language:
+
+
+https://en.wikipedia.org/wiki/JavaScript
+## Short Info
+
+
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[11] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
