@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/assembly-language/</loc>
+  </url><url>
+    <loc>http://localhost:1313/c</loc>
+  </url><url>
+    <loc>http://localhost:1313/c&#43;&#43;/</loc>
+  </url><url>
+    <loc>http://localhost:1313/c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cobol/</loc>
+  </url><url>
+    <loc>http://localhost:1313/delphiobject-pascal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fortran/</loc>
+  </url><url>
+    <loc>http://localhost:1313/go/</loc>
+  </url><url>
+    <loc>http://localhost:1313/java/</loc>
+  </url><url>
+    <loc>http://localhost:1313/javascript/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kotlin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/list/</loc>
+  </url><url>
+    <loc>http://localhost:1313/matlab/</loc>
+  </url><url>
+    <loc>http://localhost:1313/php/</loc>
+  </url><url>
+    <loc>http://localhost:1313/python/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ruby/</loc>
+  </url><url>
+    <loc>http://localhost:1313/rust/</loc>
+  </url><url>
+    <loc>http://localhost:1313/scratch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sql/</loc>
+  </url><url>
+    <loc>http://localhost:1313/swift/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual-basic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
